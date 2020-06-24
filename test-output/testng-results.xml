@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="22" passed="22">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="375294" started-at="2020-06-25T01:04:58 IST" finished-at="2020-06-25T01:11:13 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="375294" started-at="2020-06-25T01:04:58 IST" finished-at="2020-06-25T01:11:13 IST">
+      <class name="testCases.TestCases">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestCases@483f6d77]" name="setup" is-config="true" duration-ms="26" started-at="2020-06-25T01:04:58 IST" finished-at="2020-06-25T01:04:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Test_Browser_And_URL_Invoked_Correctly(java.lang.String)[pri:0, instance:testCases.TestCases@483f6d77]" name="Test_Browser_And_URL_Invoked_Correctly" duration-ms="95869" started-at="2020-06-25T01:04:58 IST" finished-at="2020-06-25T01:06:34 IST">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Browser_And_URL_Invoked_Correctly -->
+        <test-method status="PASS" signature="Test_MainPage_Title_Matches_Correctly()[pri:1, instance:testCases.TestCases@483f6d77]" name="Test_MainPage_Title_Matches_Correctly" duration-ms="4024" started-at="2020-06-25T01:06:34 IST" finished-at="2020-06-25T01:06:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_MainPage_Title_Matches_Correctly -->
+        <test-method status="PASS" signature="Test_City_Is_Selected_Correctly()[pri:2, instance:testCases.TestCases@483f6d77]" name="Test_City_Is_Selected_Correctly" duration-ms="15512" started-at="2020-06-25T01:06:38 IST" finished-at="2020-06-25T01:06:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_City_Is_Selected_Correctly -->
+        <test-method status="PASS" signature="Test_Popup_Is_Ignored()[pri:3, instance:testCases.TestCases@483f6d77]" name="Test_Popup_Is_Ignored" duration-ms="10896" started-at="2020-06-25T01:06:53 IST" finished-at="2020-06-25T01:07:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Popup_Is_Ignored -->
+        <test-method status="PASS" signature="Test_Signin_Button_Is_clicked()[pri:4, instance:testCases.TestCases@483f6d77]" name="Test_Signin_Button_Is_clicked" duration-ms="8082" started-at="2020-06-25T01:07:04 IST" finished-at="2020-06-25T01:07:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Signin_Button_Is_clicked -->
+        <test-method status="PASS" signature="Test_Continue_Via_Google_Button_Is_Clicked()[pri:5, instance:testCases.TestCases@483f6d77]" name="Test_Continue_Via_Google_Button_Is_Clicked" duration-ms="3679" started-at="2020-06-25T01:07:12 IST" finished-at="2020-06-25T01:07:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Continue_Via_Google_Button_Is_Clicked -->
+        <test-method status="PASS" signature="Test_Invalid_UserName()[pri:6, instance:testCases.TestCases@483f6d77]" name="Test_Invalid_UserName" duration-ms="23730" started-at="2020-06-25T01:07:16 IST" finished-at="2020-06-25T01:07:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Invalid_UserName -->
+        <test-method status="PASS" signature="Test_Invalid_Password()[pri:7, instance:testCases.TestCases@483f6d77]" name="Test_Invalid_Password" duration-ms="38328" started-at="2020-06-25T01:07:40 IST" finished-at="2020-06-25T01:08:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Invalid_Password -->
+        <test-method status="PASS" signature="Test_Blank_UserName()[pri:8, instance:testCases.TestCases@483f6d77]" name="Test_Blank_UserName" duration-ms="23352" started-at="2020-06-25T01:08:18 IST" finished-at="2020-06-25T01:08:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Blank_UserName -->
+        <test-method status="PASS" signature="Test_Blank_Password()[pri:9, instance:testCases.TestCases@483f6d77]" name="Test_Blank_Password" duration-ms="39079" started-at="2020-06-25T01:08:41 IST" finished-at="2020-06-25T01:09:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Blank_Password -->
+        <test-method status="PASS" signature="Test_Signing_In_Appears_Correctly()[pri:10, instance:testCases.TestCases@483f6d77]" name="Test_Signing_In_Appears_Correctly" duration-ms="36038" started-at="2020-06-25T01:09:21 IST" finished-at="2020-06-25T01:09:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Signing_In_Appears_Correctly -->
+        <test-method status="PASS" signature="Test_Sports_Is_Clicked()[pri:11, instance:testCases.TestCases@483f6d77]" name="Test_Sports_Is_Clicked" duration-ms="13094" started-at="2020-06-25T01:09:57 IST" finished-at="2020-06-25T01:10:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Sports_Is_Clicked -->
+        <test-method status="PASS" signature="Test_Sports_Available_Are_Displayed()[pri:12, instance:testCases.TestCases@483f6d77]" name="Test_Sports_Available_Are_Displayed" duration-ms="3132" started-at="2020-06-25T01:10:10 IST" finished-at="2020-06-25T01:10:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Sports_Available_Are_Displayed -->
+        <test-method status="PASS" signature="Test_Weekend_Is_clicked()[pri:13, instance:testCases.TestCases@483f6d77]" name="Test_Weekend_Is_clicked" duration-ms="3356" started-at="2020-06-25T01:10:13 IST" finished-at="2020-06-25T01:10:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Weekend_Is_clicked -->
+        <test-method status="PASS" signature="Test_Sports_Availabe_Are_Displayed_After_Selecting_Weekend()[pri:14, instance:testCases.TestCases@483f6d77]" name="Test_Sports_Availabe_Are_Displayed_After_Selecting_Weekend" duration-ms="3123" started-at="2020-06-25T01:10:16 IST" finished-at="2020-06-25T01:10:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Sports_Availabe_Are_Displayed_After_Selecting_Weekend -->
+        <test-method status="PASS" signature="Test_PriceRange_Is_clicked()[pri:15, instance:testCases.TestCases@483f6d77]" name="Test_PriceRange_Is_clicked" duration-ms="3232" started-at="2020-06-25T01:10:19 IST" finished-at="2020-06-25T01:10:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_PriceRange_Is_clicked -->
+        <test-method status="PASS" signature="Test_Minimum_Is_clicked()[pri:16, instance:testCases.TestCases@483f6d77]" name="Test_Minimum_Is_clicked" duration-ms="3414" started-at="2020-06-25T01:10:22 IST" finished-at="2020-06-25T01:10:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Minimum_Is_clicked -->
+        <test-method status="PASS" signature="Test_Sports_Availabe_Are_Displayed_After_Selecting_MinimumRange()[pri:17, instance:testCases.TestCases@483f6d77]" name="Test_Sports_Availabe_Are_Displayed_After_Selecting_MinimumRange" duration-ms="6288" started-at="2020-06-25T01:10:26 IST" finished-at="2020-06-25T01:10:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Sports_Availabe_Are_Displayed_After_Selecting_MinimumRange -->
+        <test-method status="PASS" signature="Test_Window_Navigates_To_Movie_Page()[pri:18, instance:testCases.TestCases@483f6d77]" name="Test_Window_Navigates_To_Movie_Page" duration-ms="32756" started-at="2020-06-25T01:10:32 IST" finished-at="2020-06-25T01:11:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Window_Navigates_To_Movie_Page -->
+        <test-method status="PASS" signature="Test_Movies_Are_Displayed()[pri:19, instance:testCases.TestCases@483f6d77]" name="Test_Movies_Are_Displayed" duration-ms="1002" started-at="2020-06-25T01:11:05 IST" finished-at="2020-06-25T01:11:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Movies_Are_Displayed -->
+        <test-method status="PASS" signature="Test_Languages_Are_Extracted_And_Stored_In_List()[pri:20, instance:testCases.TestCases@483f6d77]" name="Test_Languages_Are_Extracted_And_Stored_In_List" duration-ms="950" started-at="2020-06-25T01:11:06 IST" finished-at="2020-06-25T01:11:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Languages_Are_Extracted_And_Stored_In_List -->
+        <test-method status="PASS" signature="Test_Languages_Are_Displayed()[pri:21, instance:testCases.TestCases@483f6d77]" name="Test_Languages_Are_Displayed" duration-ms="37" started-at="2020-06-25T01:11:07 IST" finished-at="2020-06-25T01:11:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Languages_Are_Displayed -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:testCases.TestCases@483f6d77]" name="exit" is-config="true" duration-ms="6103" started-at="2020-06-25T01:11:07 IST" finished-at="2020-06-25T01:11:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- testCases.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
